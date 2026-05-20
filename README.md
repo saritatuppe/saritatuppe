@@ -101,8 +101,6 @@
 ---
 
 
----
-
 ## 🎓 Education
 - 🎓 MCS – Savitribai Phule Pune University (2022–2024)  
 - 🎓 BCS – Dr. BAMU University (2019–2022)  
